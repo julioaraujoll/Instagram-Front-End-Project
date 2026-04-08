@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "github.com/julioaraujoll/instagram-front-end-project",
+    "slug": "snack-3e7a1baa-587c-4aba-9482-88bb43f16cfc",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "github.com/julioaraujoll/Instagram-Front-End-Project @ Apr 8, 2026"
+  }
+}
